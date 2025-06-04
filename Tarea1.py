@@ -1,11 +1,6 @@
 import math
 
-
 def obtener_componentes_vector():
-    """
-    Solicita al usuario ingresar un vector, ya sea por magnitud y dirección
-    o por componentes cartesianas, y devuelve las componentes x e y.
-    """
     while True:
         tipo_entrada = input(
             "  ¿Cómo desea ingresar el vector? (1: Magnitud y dirección, 2: Componentes x, y): "
