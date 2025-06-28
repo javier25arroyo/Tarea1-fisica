@@ -1,6 +1,6 @@
 # Calculadora de Suma de Vectores
 
-Este proyecto es una calculadora simple en Python que suma múltiples vectores. El programa permite a los usuarios ingresar vectores de dos maneras:
+Este proyecto es una calculadora simple en Python que suma múltiples vectores, sin utilización de librerias. El programa permite a los usuarios ingresar vectores de dos maneras:
 1.  **Magnitud y dirección (en grados):** El programa calculará las componentes x e y.
 2.  **Componentes x e y:** El usuario puede ingresar directamente las componentes del vector.
 
